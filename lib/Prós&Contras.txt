@@ -1,0 +1,34 @@
+BANCO LOCAL (SQLite)
+
+PROS
+- Offline completo - Funciona sem internet
+- Velocidade - Acesso instantâneo aos dados
+- Gratuito - Sem custos de servidor
+- Privacidade - Dados totalmente locais
+- Simplicidade - Configuração fácil
+- Leve - Consumo mínimo de recursos
+
+CONTRAS
+- Sem sincronização - Dados isolados no dispositivo
+- Escalabilidade limitada - Só cresce com o dispositivo
+- Sem colaboração - Dados não compartilháveis
+- Backup manual - Risco de perda de dados
+- Manutenção - Atualizações complexas
+
+BANCO NUVEM (Supabase)
+
+PROS
+- Sincronização em tempo real - Dados atualizados em todos os lugares
+- Colaboração - Múltiplos usuários acessam mesmo dados
+- Escalabilidade infinita - Cresce conforme necessidade
+- Backup automático - Dados sempre seguros
+- Atualizações instantâneas - Mudanças refletem imediatamente
+- Autenticação integrada - Login pronto para usar
+- Multiplataforma - Mesmos dados em todos dispositivos
+
+CONTRAS
+- Dependente de internet - Sem conexão, sem acesso
+- Custos - Pode ter mensalidade conforme uso
+- Privacidade - Dados em servidor de terceiros
+- Complexidade - Configuração mais elaborada
+- Latência - Depende da velocidade da internet
